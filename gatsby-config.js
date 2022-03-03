@@ -29,7 +29,7 @@ module.exports = {
         name: `content`,
       },
     },
-    'gatsby-plugin-netlify',
+    `gatsby-plugin-netlify`,
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
@@ -89,7 +89,7 @@ module.exports = {
     },
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
-    "gatsby-plugin-theme-ui",
+    `gatsby-plugin-theme-ui`,
     `gatsby-plugin-netlify-cms`,
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -110,8 +110,7 @@ module.exports = {
         icon: "static" + settings.meta.iconimage,
       },
     },
-    "gatsby-plugin-offline",
-    `gatsby-plugin-netlify`,
+    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-netlify`,
       options: {
