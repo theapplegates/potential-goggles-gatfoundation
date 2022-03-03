@@ -40,7 +40,6 @@
   "dependencies": {
     "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^3.0.2",
     "@hapi/joi": "^17.1.1",
-    "@netlify/plugin-gatsby": "^2.1.2",
     "@sentry/gatsby": "^6.11.0",
     "@sentry/tracing": "^6.11.0",
     "bluebird": "^3.7.2",
